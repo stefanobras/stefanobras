@@ -2,7 +2,7 @@
 **`(Developer/Musician/Producer)`**
 
 I'm a blooming software developer who's constantly trying to blend his passions and deranged ideas into something the professional world will accept as worthy.
-You've probably noticed already that this profile indeed seems a bit empty. But don't worry too much about it, It'll be rapidly changing now that I have the time to start creating.
+Bringing ideas and solutions into reality through code is why I love doing this.
 
 ---
 
