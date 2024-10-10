@@ -1,7 +1,8 @@
 # 🎧 Stefano Brascetta
 **`(Developer/Musician/Producer)`**
 
-I'm a blooming software developer who's constantly trying to blend his passions and silly ideas into something the professional world will accept as worthy ;) 
+I'm a blooming software developer who's constantly trying to blend his passions and silly ideas into something the professional world will accept as worthy ;)
+
 Bringing ideas and solutions into reality through code is why I love doing this.
 
 ---
